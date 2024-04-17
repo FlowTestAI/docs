@@ -16,9 +16,18 @@ Download the latest release
 
 ## Import
 
+&#x20;\* Currently we require an OpenAPI spec to import/open a collection. Very soon we will allow operations without it too.&#x20;
+
 1. Click Import
 2. Select an OpenAPI spec. You can download a sample petstore OpenAPI spec from [here](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml).
 3. Select directory where you want to store your collection.
-4. You will see a directory with the name of the OpenAPI spec title at the location you chose in step 3.
+4. You will see a directory created with the name of the OpenAPI spec title at the location you chose in step 3.
 
 ## Create your first Flow
+
+1. After importing an OpenAPI spec, you will see an entry by the name of the OpenAPI spec title in the IDE sidebar.
+2. Click the kebab menu icon to the right of it, you can now created nested folder structure or a new flow all of which will be replicated to your local system.
+3. Click create new flow, enter a name and click create. You should see a new tab with the flow name opened with a fresh canvas.&#x20;
+4. At the bottom right corner, you will see a :heavy\_plus\_sign: button. Click it and it will display all the possible logical nodes that you can drag and drop onto the canvas.
+5. To know more about each of the nodes, refer to the [flow-nodes](../flow-nodes/ "mention") section.
+6. Instead of manual drag and drop, one can also use [generative-ai](../generative-ai/ "mention") to create a flow using natural language. For that refer to [this](../generative-ai/) section for step by step instruction.
