@@ -1,5 +1,2 @@
-# Introduction
+# FlowTestAI Documentation
 
-sample content
-
-## Get Started
