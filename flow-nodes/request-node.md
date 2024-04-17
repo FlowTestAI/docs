@@ -6,7 +6,7 @@ Anything within double curly braces `{{ }}` is treated as a variable. Each reque
 
 ### Pre-Request
 
-These are the set of variables LOCAL to an API request and can be used by the API request before it fires. For Instance, you can define your url as `https://petstore3.swagger.io/api/v3/pet/{{petId}}`
+These are the set of variables LOCAL to an API request and can be used by the API request before it fires. For Instance, you can define your url as `https://petstore3.swagger.io/api/v3/pet/{{petId}}` and then define a pre-request variable as shown below.
 
 &#x20;A variable can of the following type -&#x20;
 
