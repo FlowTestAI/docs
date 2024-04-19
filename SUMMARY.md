@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FlowTestAI Documentation](README.md)
+* [FlowTestAI](README.md)
 * [Introduction](installation/README.md)
   * [Getting Started](installation/getting-started.md)
   * [Support](installation/support.md)
@@ -12,7 +12,5 @@
   * [Delay Node](flow-nodes/delay-node.md)
   * [Complex Node](flow-nodes/complex-node.md)
   * [Set Variable Node](flow-nodes/set-variable-node.md)
-* [Environments](environments/README.md)
-  * [Overview](environments/overview.md)
-* [Generative AI](generative-ai/README.md)
-  * [Overview](generative-ai/overview.md)
+* [Environments](environments.md)
+* [Generative AI](generative-ai.md)

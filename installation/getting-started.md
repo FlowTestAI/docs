@@ -26,8 +26,8 @@ Download the latest release
 ## Create your first Flow
 
 1. After importing an OpenAPI spec, you will see an entry by the name of the OpenAPI spec title in the IDE sidebar.
-2. Click the kebab menu icon to the right of it, you can now created nested folder structure or a new flow all of which will be replicated to your local system.
+2. Click the kebab menu icon to the right of it, you can now created nested folder structure or a new flow all of which will be replicated to your local system.&#x20;
 3. Click create new flow, enter a name and click create. You should see a new tab with the flow name opened with a fresh canvas.&#x20;
 4. At the bottom right corner, you will see a :heavy\_plus\_sign: button. Click it and it will display all the possible logical nodes that you can drag and drop onto the canvas.
 5. To know more about each of the nodes, refer to the [flow-nodes](../flow-nodes/ "mention") section.
-6. Instead of manual drag and drop, one can also use [generative-ai](../generative-ai/ "mention") to create a flow using natural language. For that refer to [this](../generative-ai/) section for step by step instruction.
+6. Instead of manual drag and drop, one can also use [generative-ai.md](../generative-ai.md "mention") to create a flow using natural language. For that refer to [this](../generative-ai.md) section for step by step instruction.
