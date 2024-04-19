@@ -2,6 +2,8 @@
 
 FlowTestAI stands as the world’s first GenAI powered OpenSource Integrated Development Environment (IDE) specifically designed to craft, visualize, and manage API-driven workflows. Characterized by its speed, lightweight architecture, and local operation, FlowTestAI safeguards privacy while facilitating the seamless integration of API driven workflows.
 
+<figure><img src="https://lh7-us.googleusercontent.com/WVPX9JB0YGWLdbCG_tO0IKGvolHsizLQdmUmFD_oh-HzKhszenjYzJ14kakwfWxpYqIy6eLQZwXTjnIi6jMOHlVqWBqjCvR_Vxl17nzBN6Kg5jY17jpa01aQBkyiUPHHFRLFlgB_x0IGhCF-LY0GKFU" alt=""><figcaption></figcaption></figure>
+
 ## Installation
 
 With a developer first approach in mind, we have designed FlowTestAI to offer an experience of an IDE just like VS Code, Intellij etc. Every operation that you perform inside FlowTestAI is local to your file system keeping privacy at the forefront.
