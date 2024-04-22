@@ -10,11 +10,11 @@ With a developer first approach in mind, we have designed FlowTestAI to offer an
 
 Download the latest release
 
-| Platform | Binary         |
-| -------- | -------------- |
-| MacOs    |                |
-| Windows  | Coming Soon... |
-| Linux    | Coming Soon... |
+| Platform | Binary                                                          |
+| -------- | --------------------------------------------------------------- |
+| MacOs    | [x64,  arm64 ](https://github.com/FlowTestAI/FlowTest/releases) |
+| Windows  | Coming Soon...                                                  |
+| Linux    | Coming Soon...                                                  |
 
 ## Import
 
