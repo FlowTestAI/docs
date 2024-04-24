@@ -9,7 +9,8 @@ One of the unique abilities of our product is the ablility to create runnable wo
 <figure><img src=".gitbook/assets/Screenshot 2024-04-18 at 5.08.04 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 4. Currently we only support OpenAI, but we plan to integrate other models soon. Let us know if you want a specific model integrated.
-5. Now head to the directory where you created your collection in your file system. Create a `.env` file and enter `OPENAI_APIKEY=<api_key_value>` . Once you do that you should start seeing that in the `Generate` pop up box if you select OPENAI as your choice of model.
+5. Request your OpenAI api key by signing up [here](https://platform.openai.com/) or you can contact us on our [social media handles](https://flowtestai.gitbook.io/flowtestai) and we can provide you one based on your use case.
+6. Now head to the directory where you created your collection in your file system. Create a `.env` file and enter `OPENAI_APIKEY=<api_key_value>` . Once you do that you should start seeing that in the `Generate` pop up box if you select OPENAI as your choice of model.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-04-15 at 9.32.50 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
